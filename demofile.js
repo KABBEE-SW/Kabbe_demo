@@ -12,6 +12,6 @@
 
 // f
 
-// configuration example
+// configuration example conflict will happen
 // emoji example
 // feature dawit branch
