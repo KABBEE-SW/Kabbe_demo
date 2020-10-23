@@ -13,3 +13,4 @@
 // f
 
 // configuration example
+// emoji example
